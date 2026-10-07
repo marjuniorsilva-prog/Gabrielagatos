@@ -1,17 +1,5 @@
-SITE GABRIELA SOUZA
+SITE CORRIGIDO - ARQUIVO ÚNICO
 
-Arquivos:
-- index.html -> página principal
-- assets/gabriela.jpg -> foto usada no topo
-- gabriela-souza.vcf -> arquivo do botão "Adicionar contato"
-
-Para publicar no GitHub Pages:
-1. Substitua os arquivos do repositório Gabrielagatos pelos arquivos desta pasta.
-2. Mantenha a estrutura de pastas exatamente como está.
-3. Faça commit/push.
-4. Aguarde o GitHub Pages atualizar.
-
-URL esperada:
-https://marjuniorsilva-prog.github.io/Gabrielagatos/
-
-O QR Code que você já tem continuará funcionando, pois o endereço permanece o mesmo.
+Suba apenas o arquivo index.html para a raiz do repositório Gabrielagatos, substituindo o index.html antigo.
+A foto já está incorporada dentro do próprio HTML, então não depende da pasta assets.
+O botão “Adicionar contato” também está incorporado no HTML.
